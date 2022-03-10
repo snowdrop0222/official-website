@@ -1,0 +1,44 @@
+.head-ttl{
+  background-color: #cccccc;
+  text-align: center;
+}
+
+span {
+  color: red;
+}
+
+.bg p {
+	color: #33ccff;
+    text-align: center;
+}
+
+.sp-view {
+  background-color: #99ffff;
+}
+
+.a {  
+    position: relative;
+    background-color: #ccffff;
+}
+
+.a p1{
+    position: absolute;
+    top: 0;
+    left: 10%;
+    text-align:center;
+    padding:0;
+    margin:0;
+}
+
+.a p2{
+    position: absolute;
+    top: 0;
+    right: 10%;
+    text-align:center;
+    padding:0;
+    margin:0;
+}
+
+.b {
+    text-align:center;
+}
